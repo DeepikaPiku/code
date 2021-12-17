@@ -1,0 +1,13 @@
+https://www.sanfoundry.com/c-program-convert-octal-binary/
+
+https://codeforwin.org/2015/07/star-patterns-program-in-c.html
+
+https://www.programiz.com/c-programming/examples/pyramid-pattern
+
+https://www.educba.com/patterns-in-c-programming/
+
+http://cbasicprogram.blogspot.com/2012/04/number-patterns.html
+
+https://www.2braces.com/c-programming/c-series-patterns
+
+https://www.geeksforgeeks.org/c-program-sort-array-names-strings/
