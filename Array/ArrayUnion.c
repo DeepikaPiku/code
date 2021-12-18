@@ -1,4 +1,8 @@
-/*array union*/
+/*array union
+input : let array 1 : 1 2 3 4 5
+	    array 2 : 3 4 5
+output : after union : 1 2 3 4 5
+*/
 #include<stdio.h>
 int arrayUnion(int a[],int an,int b[],int bn)
 {
